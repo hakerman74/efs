@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "charlestutorial:blocks/lime_linoleum"
+    }
+}
